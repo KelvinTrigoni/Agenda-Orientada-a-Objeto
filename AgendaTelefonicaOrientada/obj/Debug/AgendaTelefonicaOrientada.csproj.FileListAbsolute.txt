@@ -1,0 +1,66 @@
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\ApplicationInsights.config
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\csc.exe
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\System.Collections.Immutable.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\vbc.exe
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\VBCSCompiler.exe
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\VBCSCompiler.exe.config
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\AgendaTelefonicaOrientada.dll.config
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\AgendaTelefonicaOrientada.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\AgendaTelefonicaOrientada.pdb
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.Web.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.WindowsServer.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.ApplicationInsights.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.Web.xml
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.WindowsServer.xml
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.ApplicationInsights.xml
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\obj\Debug\AgendaTelefonicaOrientada.csprojResolveAssemblyReference.cache
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\obj\Debug\AgendaTelefonicaOrientada.dll
+c:\users\celso\documents\visual studio 2015\Projects\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\obj\Debug\AgendaTelefonicaOrientada.pdb
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\ApplicationInsights.config
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\csc.exe
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\vbc.exe
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\VBCSCompiler.exe
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\AgendaTelefonicaOrientada.dll.config
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\AgendaTelefonicaOrientada.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\AgendaTelefonicaOrientada.pdb
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.Web.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.Web.xml
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\obj\Debug\AgendaTelefonicaOrientada.csprojResolveAssemblyReference.cache
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\obj\Debug\AgendaTelefonicaOrientada.dll
+C:\Users\Celso\Desktop\AgendaTelefonicaOrientada\AgendaTelefonicaOrientada\obj\Debug\AgendaTelefonicaOrientada.pdb
